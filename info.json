@@ -1,0 +1,7 @@
+{
+    "files": [
+        {
+            "pattern": "download-test1-kubectl-isg/*"
+        }
+    ]
+}
